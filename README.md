@@ -1,0 +1,2 @@
+# RedisDesktopManager-Release
+RedisDesktopManager-Release
